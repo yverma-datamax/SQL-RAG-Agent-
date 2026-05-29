@@ -41,7 +41,7 @@ You type a plain English question. The agent:
 | Notebook | Jupyter |
 | Database | SQLite |
 | Embeddings | `nomic-embed-text` via Ollama |
-| LLM | `llama3.2` via Ollama (swap for any model) |
+| LLM | `mistral` via Ollama (swap for any model) |
 | Data | pandas, NumPy |
 | Charts | matplotlib |
 
