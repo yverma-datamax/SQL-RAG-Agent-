@@ -122,7 +122,6 @@ sql-rag-agent/
 
 ## Extending this project
 
-- **Self-correction loop** — re-prompt with the SQL error if execution fails
 - **PostgreSQL backend** — swap SQLite for a production database
 - **FastAPI layer** — expose the agent as a REST API
 - **Conversation memory** — support follow-up questions
