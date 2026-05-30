@@ -120,6 +120,7 @@ sql-rag-agent/
 
 ---
 <img width="713" height="873" alt="image" src="https://github.com/user-attachments/assets/e56497c0-898e-4d9a-811c-b229d666abab" />
+
 ---
 
 ## Extending this project
