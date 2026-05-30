@@ -109,7 +109,6 @@ sql-rag-agent/
 - **Local LLMs** — running everything offline with Ollama
 
 ---
-<img width="713" height="873" alt="image" src="https://github.com/user-attachments/assets/e56497c0-898e-4d9a-811c-b229d666abab" />
 
 ## Sample questions to try
 
@@ -119,6 +118,8 @@ sql-rag-agent/
 - `"What is the refund rate by region?"`
 - `"How did order volume change month over month?"`
 
+---
+<img width="713" height="873" alt="image" src="https://github.com/user-attachments/assets/e56497c0-898e-4d9a-811c-b229d666abab" />
 ---
 
 ## Extending this project
