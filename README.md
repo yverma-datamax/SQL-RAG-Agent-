@@ -119,9 +119,11 @@ sql-rag-agent/
 - `"How did order volume change month over month?"`
 
 ---
+## Full working pipeline, from prompt to results
 <img width="713" height="873" alt="image" src="https://github.com/user-attachments/assets/e56497c0-898e-4d9a-811c-b229d666abab" />
 
 ---
+## Evaluating the agent
 <img width="576" height="797" alt="image" src="https://github.com/user-attachments/assets/9576cb08-fd2f-4629-8dcc-1672e00920b9" />
 
 ---
