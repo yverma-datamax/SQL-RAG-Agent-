@@ -1,4 +1,4 @@
-# SQL RAG Agent 🔍
+# SQL RAG Agent 
 
 > Natural language → SQL → results, powered by a **local LLM** — no API key needed.
 
